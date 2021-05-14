@@ -1,4 +1,4 @@
-# my-garage
+# Winer Schnitzel
 
 ## Project setup
 ```
